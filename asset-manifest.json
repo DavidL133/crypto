@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-top-100/static/css/main.17568683.css",
+    "main.js": "/crypto-top-100/static/js/main.9c24f059.js",
+    "index.html": "/crypto-top-100/index.html",
+    "main.17568683.css.map": "/crypto-top-100/static/css/main.17568683.css.map",
+    "main.9c24f059.js.map": "/crypto-top-100/static/js/main.9c24f059.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17568683.css",
+    "static/js/main.9c24f059.js"
+  ]
+}
